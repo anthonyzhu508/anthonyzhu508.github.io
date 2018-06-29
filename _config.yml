@@ -17,18 +17,13 @@ baseurl: ""
 title: Harrison Zhu
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: You can find more about me here :D
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -64,7 +59,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Harrison Zhu
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -73,11 +68,11 @@ author:
 social-network-links:
   rss: true
   email: "harrisonzhu5080@gmail.com"
-  facebook: https://www.facebook.com/harrison.zhu.5
-  github: https://github.com/harrisonzhu508
+  facebook: "www.facebook.com/harrison.zhu.5"
+  github: "https://github.com/harrisonzhu508"
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: https://www.linkedin.com/in/harrison-zhu-642056107/
+  linkedin: "https://www.linkedin.com/in/harrison-zhu-642056107/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -98,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "http://harrisonzhu508.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "harrisonzhu508.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -141,7 +136,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Berlin"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
