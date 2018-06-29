@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "harrisonzhu508.github.io"
-baseurl: "harrisonzhu508.github.io"
+baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -15,6 +15,7 @@ baseurl: "harrisonzhu508.github.io"
 
 # Name of website
 title: Harrison Zhu
+description: Mathematics at Imperial College London
 
 # Short description of your site
 description: You can find more about me here :D
@@ -66,9 +67,8 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
   email: "harrisonzhu5080@gmail.com"
-  facebook: "www.facebook.com/harrison.zhu.5"
   github: "https://github.com/harrisonzhu508"
 #  reddit: yourname
 #  google-plus: +DeanAttali
