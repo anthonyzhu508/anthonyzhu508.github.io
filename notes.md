@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Notes
+title: 笔记
 ---
 
-Here is a collection of my notes during my undergraduate studies and data science tutorials.
+朱绍良的个人笔记。
 
 
