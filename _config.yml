@@ -18,16 +18,16 @@ title: 朱绍良
 description: 加籍华人收藏家个人首页
 
 # Short description of your site
-description: Website
+description: 个人首页
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "http://anthonyzhu508.github.io"
+  首页: "http://anthonyzhu508.github.io"
   个人介绍: "aboutme"
-  Notes: "notes"
-  Photos: "photos"
+  笔记: "notes"
+  图片: "photos"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
