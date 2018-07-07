@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://harrisonzhu508.github.io"
+url: "http://anthonyzhu508.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,8 +14,8 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Harrison Zhu
-description: Mathematician at Imperial College London
+title: 朱绍良
+description: 加籍华人收藏家个人首页
 
 # Short description of your site
 description: Website
@@ -24,8 +24,8 @@ description: Website
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "http://harrisonzhu508.github.io"
-  About Me: "aboutme"
+  Home: "http://anthonyzhu508.github.io"
+  个人介绍: "aboutme"
   Notes: "notes"
   Photos: "photos"
   
@@ -71,10 +71,10 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  github: harrisonzhu508
+  github: anthonyzhu508
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: harrison-zhu-642056107
+#  linkedin: harrison-zhu-642056107
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
