@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: 个人介绍
 ---
 
-My name is Harrison and I am an undergraduate studying mathematics at Imperial College London. I previously spent a year at EPFL during my 3rd year.
+加籍华裔中国艺术品收藏家朱绍良。
